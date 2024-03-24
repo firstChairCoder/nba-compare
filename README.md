@@ -1,0 +1,2 @@
+# nba-compare
+Simple site to return the numbers between the Eastern and Western Conference in inter-conference matches.
